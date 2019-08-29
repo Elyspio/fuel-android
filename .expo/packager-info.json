@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 13416,
+  "expoServerNgrokUrl": "https://ki-nv4.anonymous.fuelfinder.exp.direct",
+  "packagerNgrokUrl": "https://packager.ki-nv4.anonymous.fuelfinder.exp.direct",
+  "ngrokPid": 7676,
+  "webpackServerPort": 19006
+}
